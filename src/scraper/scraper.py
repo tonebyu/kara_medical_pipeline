@@ -1,4 +1,19 @@
 # src/scraper/scraper.py
+import logging
+
+# Setup logger
+logging.basicConfig(
+    filename='logs/scraper.log',  # save in logs/
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+)
+
+# Optional: also log to console (useful for debugging)
+console = logging.StreamHandler()
+console.setLevel(logging.INFO)
+formatter = logging.Formatter('%(levelname)s - %(message)s')
+console.setFormatter(formatter)
+logging.getLogger().addHandler(console)
 
 from telethon.sync import TelegramClient
 from telethon.tl.types import MessageMediaPhoto

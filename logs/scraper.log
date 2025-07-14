@@ -1,0 +1,209 @@
+2025-07-14 19:01:43,402 - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2025-07-14 19:01:43,404 - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2025-07-14 19:01:44,092 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-07-14 19:01:45,215 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-07-14 19:01:48,026 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:01:49,120 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18570.jpg
+2025-07-14 19:01:49,122 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:01:50,983 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18569.jpg
+2025-07-14 19:01:50,985 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:01:52,778 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18568.jpg
+2025-07-14 19:01:52,780 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:01:54,441 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18567.jpg
+2025-07-14 19:01:54,443 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:01:56,140 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18566.jpg
+2025-07-14 19:01:56,142 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:01:58,550 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18565.jpg
+2025-07-14 19:01:58,553 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:01:59,749 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18564.jpg
+2025-07-14 19:01:59,751 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:02:02,965 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18563.jpg
+2025-07-14 19:02:02,992 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:02:04,039 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18562.jpg
+2025-07-14 19:02:04,041 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:02:05,144 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18561.jpg
+2025-07-14 19:02:05,146 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:02:06,211 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18560.jpg
+2025-07-14 19:02:06,212 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:02:07,118 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18559.jpg
+2025-07-14 19:02:07,122 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:02:08,315 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18558.jpg
+2025-07-14 19:02:08,318 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:02:10,282 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18557.jpg
+2025-07-14 19:02:10,284 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:02:16,308 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18556.jpg
+2025-07-14 19:02:16,310 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:02:20,162 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18555.jpg
+2025-07-14 19:02:20,163 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:02:21,780 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18554.jpg
+2025-07-14 19:02:21,782 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:02:26,174 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18553.jpg
+2025-07-14 19:02:26,175 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:02:27,448 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18552.jpg
+2025-07-14 19:02:27,449 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:02:29,088 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18551.jpg
+2025-07-14 19:02:29,089 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:02:31,405 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18550.jpg
+2025-07-14 19:02:31,407 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:02:33,446 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18549.jpg
+2025-07-14 19:02:33,448 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:02:35,631 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18548.jpg
+2025-07-14 19:02:35,634 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:02:36,122 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18547.jpg
+2025-07-14 19:02:36,124 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:02:37,593 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18546.jpg
+2025-07-14 19:02:37,596 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:02:38,973 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18545.jpg
+2025-07-14 19:02:38,975 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:02:39,712 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18544.jpg
+2025-07-14 19:02:39,713 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:02:40,399 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18543.jpg
+2025-07-14 19:02:40,402 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:02:40,873 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18542.jpg
+2025-07-14 19:02:40,874 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:02:41,310 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18541.jpg
+2025-07-14 19:02:41,312 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:02:42,038 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18540.jpg
+2025-07-14 19:02:42,040 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:02:42,896 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18539.jpg
+2025-07-14 19:02:42,897 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:02:44,281 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18538.jpg
+2025-07-14 19:02:44,284 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:02:45,437 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18537.jpg
+2025-07-14 19:02:45,438 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:02:45,995 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18536.jpg
+2025-07-14 19:02:45,997 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:02:47,443 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18535.jpg
+2025-07-14 19:02:47,445 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:02:49,191 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18534.jpg
+2025-07-14 19:02:49,193 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:02:50,226 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18533.jpg
+2025-07-14 19:02:50,228 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:02:51,587 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18532.jpg
+2025-07-14 19:02:51,589 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:02:52,362 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18531.jpg
+2025-07-14 19:02:52,366 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:02:54,345 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18530.jpg
+2025-07-14 19:02:54,348 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:02:54,850 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18529.jpg
+2025-07-14 19:02:54,865 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:02:55,350 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18528.jpg
+2025-07-14 19:02:55,350 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:02:57,739 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18526.jpg
+2025-07-14 19:02:57,741 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:02:58,995 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18525.jpg
+2025-07-14 19:02:58,999 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:00,462 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18524.jpg
+2025-07-14 19:03:00,466 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:01,816 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18523.jpg
+2025-07-14 19:03:01,819 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:02,428 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18522.jpg
+2025-07-14 19:03:02,431 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:03,714 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18521.jpg
+2025-07-14 19:03:03,714 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:06,144 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18520.jpg
+2025-07-14 19:03:06,147 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:09,563 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18519.jpg
+2025-07-14 19:03:09,565 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:10,314 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18518.jpg
+2025-07-14 19:03:10,334 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:10,742 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18517.jpg
+2025-07-14 19:03:10,745 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:11,130 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18516.jpg
+2025-07-14 19:03:11,130 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:12,930 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18515.jpg
+2025-07-14 19:03:12,932 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:14,020 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18514.jpg
+2025-07-14 19:03:14,020 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:14,384 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18513.jpg
+2025-07-14 19:03:14,386 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:15,191 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18512.jpg
+2025-07-14 19:03:15,195 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:16,021 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18511.jpg
+2025-07-14 19:03:16,023 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:17,366 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18510.jpg
+2025-07-14 19:03:17,369 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:18,398 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18509.jpg
+2025-07-14 19:03:18,413 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:20,181 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18508.jpg
+2025-07-14 19:03:20,184 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:20,647 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18507.jpg
+2025-07-14 19:03:20,647 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:22,344 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18506.jpg
+2025-07-14 19:03:22,344 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:24,689 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18505.jpg
+2025-07-14 19:03:24,691 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:26,530 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18504.jpg
+2025-07-14 19:03:26,532 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:28,096 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18503.jpg
+2025-07-14 19:03:28,115 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:29,288 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18502.jpg
+2025-07-14 19:03:29,289 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:30,503 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18501.jpg
+2025-07-14 19:03:30,505 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:30,950 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18500.jpg
+2025-07-14 19:03:30,952 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:32,450 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18499.jpg
+2025-07-14 19:03:32,457 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:33,614 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18498.jpg
+2025-07-14 19:03:33,616 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:33,964 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18497.jpg
+2025-07-14 19:03:33,967 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:35,090 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18496.jpg
+2025-07-14 19:03:35,092 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:36,017 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18495.jpg
+2025-07-14 19:03:36,018 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:36,722 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18494.jpg
+2025-07-14 19:03:36,725 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:37,482 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18493.jpg
+2025-07-14 19:03:37,484 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:38,018 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18492.jpg
+2025-07-14 19:03:38,020 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:40,100 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18491.jpg
+2025-07-14 19:03:40,102 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:42,183 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18490.jpg
+2025-07-14 19:03:42,186 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:42,519 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18489.jpg
+2025-07-14 19:03:42,521 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:44,134 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18488.jpg
+2025-07-14 19:03:44,137 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:44,653 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18487.jpg
+2025-07-14 19:03:44,655 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:45,734 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18486.jpg
+2025-07-14 19:03:45,736 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:46,839 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18485.jpg
+2025-07-14 19:03:46,849 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:47,597 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18484.jpg
+2025-07-14 19:03:47,599 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:49,042 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18483.jpg
+2025-07-14 19:03:49,044 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:49,883 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18482.jpg
+2025-07-14 19:03:49,885 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:52,271 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18481.jpg
+2025-07-14 19:03:52,273 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:54,516 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18480.jpg
+2025-07-14 19:03:54,518 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:54,939 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18479.jpg
+2025-07-14 19:03:54,940 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:56,643 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18478.jpg
+2025-07-14 19:03:56,645 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:57,838 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18477.jpg
+2025-07-14 19:03:57,842 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:03:59,569 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18476.jpg
+2025-07-14 19:03:59,571 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:04:00,691 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18475.jpg
+2025-07-14 19:04:00,691 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:04:01,439 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18474.jpg
+2025-07-14 19:04:01,441 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:04:01,853 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18473.jpg
+2025-07-14 19:04:01,855 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:04:02,383 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18472.jpg
+2025-07-14 19:04:02,384 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:04:03,341 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18471.jpg
+2025-07-14 19:04:03,341 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-14 19:04:03,740 - INFO - Saved image from https://t.me/lobelia4cosmetics: data/raw/images/2025-07-14\lobelia4cosmetics_18470.jpg
+2025-07-14 19:04:03,740 - ERROR - Error scraping https://t.me/lobelia4cosmetics: Circular reference detected
+2025-07-14 19:04:04,008 - ERROR - Error scraping https://t.me/CheMed123: Could not find a matching Constructor ID for the TLObject that was supposed to be read with ID fe4478bd. See the FAQ for more details. Remaining bytes: b'\xbdxD\xfed \x00\x00\x0c\x00\x00\x00\xe2\xe8\xfa`\x00\x00\x00\x00_\x141mN=\x81Q\x06CheMed\x00\tCheMed123\x00\x00\x11\x1cn\x1c\x02\x00\x00\x00\x83\xb81\x1b\xf4\\\xe1R\x17\x01\x08\x08r\xee\x8d\x89,>`pA\xedE\x14S\x8b\xba0\xa8\xac\xf4?\x04\x00\x00\x00\xee\xb4\x15c\x15\xc4\xb5\x1c\x00\x00\x00\x00m\xa2\xf0\x0e\xc0\xf9\x87\xe4G\x92ZU\xf1\xe8\x19\x80sS\x1a&'
+2025-07-14 19:04:04,160 - ERROR - Error scraping https://t.me/tikvahpharma: Could not find a matching Constructor ID for the TLObject that was supposed to be read with ID fe4478bd. See the FAQ for more details. Remaining bytes: b'\xbdxD\xfeD!T\x18\x0c\x00\x00\x00MV\x92]\x00\x00\x00\x00\xd7[\xff\x10\xbc\x85\x13\xf8\x0fTikvah | Pharma\x0ctikvahpharma\x00\x00\x00\x11\x1cn\x1c\x02\x00\x00\x00\xdc\xc81\x1b\xbe\xaf\xd0S\x0f\x01\x08\x08\xd0\xfd\xe7\xfb?\xad\x14Q^]\xcd\x0f\x04\x00\x00\x00lG\x16a\x18\x04\x12\x9f\xfc\x05\xfe\x01\xff\xff\xff\x7f\x15\xc4\xb5\x1c\x00\x00\x00\x00\xf3\xbf\xea\xfe\x06\x8f\x0b\xab\xbf\x18)v\xb6\xcf\xca\xc4\x94M\xd9&'
+2025-07-14 19:04:04,187 - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-07-14 19:04:04,191 - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
