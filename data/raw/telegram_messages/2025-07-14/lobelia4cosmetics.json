@@ -1,0 +1,56 @@
+[
+  {
+    "_": "Message",
+    "id": 18570,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1666492664
+    },
+    "date": "2025-07-14T12:45:26+00:00",
+    "message": "Mini Drop Iron\nPrice 3500 birr \nTelegram @Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr - 500 birr",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": {
+      "_": "MessageFwdHeader",
+      "date": "2025-06-16T11:43:53+00:00",
+      "imported": false,
+      "saved_out": false,
+      "from_id": {
+        "_": "PeerChannel",
+        "channel_id": 1666492664
+      },
+      "from_name": null,
+      "channel_post": 18089,
+      "post_author": null,
+      "saved_from_peer": null,
+      "saved_from_msg_id": null,
+      "saved_from_id": null,
+      "saved_from_name": null,
+      "saved_date": null,
+      "psa_type": null
+    },
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaPhoto",
+      "spoiler": false,
+      "photo": {
+        "_": "Photo",
+        "id": 5945204185253398120,
+        "access_hash": 6260321543812549020,
+        "file_reference": 

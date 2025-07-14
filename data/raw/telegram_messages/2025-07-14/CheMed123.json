@@ -1,0 +1,56 @@
+[
+  {
+    "_": "Message",
+    "id": 97,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1627056354
+    },
+    "date": "2023-02-10T12:23:06+00:00",
+    "message": "⚠️Notice!\nDear esteemed customers,\nDue to four-day motorbike movement restrictions, we have limited our services to matchmaking,drug information, and medical consultation only.\n\nN.B. \n🔅We will make deliveries for those for whom the medications are urgent.\n🔅You can book deliveries starting from Monday, February 13, 2023",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": true,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": {
+      "_": "MessageFwdHeader",
+      "date": "2023-02-10T12:22:53+00:00",
+      "imported": false,
+      "saved_out": false,
+      "from_id": {
+        "_": "PeerUser",
+        "user_id": 339373129
+      },
+      "from_name": null,
+      "channel_post": null,
+      "post_author": null,
+      "saved_from_peer": null,
+      "saved_from_msg_id": null,
+      "saved_from_id": null,
+      "saved_from_name": null,
+      "saved_date": null,
+      "psa_type": null
+    },
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaPhoto",
+      "spoiler": false,
+      "photo": {
+        "_": "Photo",
+        "id": 5994407541049769840,
+        "access_hash": 7026991073833806791,
+        "file_reference": 
