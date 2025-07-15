@@ -1,5 +1,12 @@
-﻿.env
+﻿# Environment variables
+.env
+
+# Python cache
 __pycache__/
 *.pyc
-.env
-venv
+
+# Virtual environment
+venv/
+
+# Data files (if it's a folder)
+data/
