@@ -7,7 +7,7 @@
       "channel_id": 1627056354
     },
     "date": "2023-02-10T12:23:06+00:00",
-    "message": "⚠️Notice!\nDear esteemed customers,\nDue to four-day motorbike movement restrictions, we have limited our services to matchmaking,drug information, and medical consultation only.\n\nN.B. \n🔅We will make deliveries for those for whom the medications are urgent.\n🔅You can book deliveries starting from Monday, February 13, 2023",
+    "message": "\u26a0\ufe0fNotice!\nDear esteemed customers,\nDue to four-day motorbike movement restrictions, we have limited our services to matchmaking,drug information, and medical consultation only.\n\nN.B. \n\ud83c\udf05We will make deliveries for those for whom the medications are urgent.\n\ud83c\udf05You can book deliveries starting from Monday, February 13, 2023",
     "out": false,
     "mentioned": false,
     "media_unread": false,
@@ -53,4 +53,8 @@
         "_": "Photo",
         "id": 5994407541049769840,
         "access_hash": 7026991073833806791,
-        "file_reference": 
+        "file_reference": null
+      }
+    }
+  }
+]
