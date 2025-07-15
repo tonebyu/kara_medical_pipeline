@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: staging
+    tables:
+      - name: fct_image_detections
+        description: "Raw object detection results from YOLOv8"
